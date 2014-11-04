@@ -1,0 +1,8 @@
+name             'fiveandsix'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures fiveandsix'
+long_description 'Installs/Configures fiveandsix'
+version          '0.1.0'
+depends          'database'
